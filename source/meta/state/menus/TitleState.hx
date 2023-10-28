@@ -191,6 +191,7 @@ class TitleState extends MusicBeatState
 				});
 			}
 		}
+		#end
 	}
 
 	var logoBl:FlxSprite;
