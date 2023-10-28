@@ -16,6 +16,7 @@ import openfl.Lib;
 #if openfl
 import openfl.system.System;
 #end
+import meta.data.*;
 
 /**
 	The FPS class provides an easy-to-use monitor to display
