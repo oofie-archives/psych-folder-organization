@@ -38,10 +38,11 @@ jobs:
           haxelib run lime setup
           haxelib install tjson
           haxelib install hxjsonast
-          haxelib install hxCodec
           haxelib install hscript
           haxelib install flixel-ui
           haxelib install flixel-tools
+          haxelib install hxCodec 2.5.1
+          haxelib set hxCodec 2.5.1
           haxelib install flixel 4.11.0
           haxelib set flixel 4.11.0
           haxelib install flixel-addons 2.11.0
